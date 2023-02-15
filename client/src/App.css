@@ -6,6 +6,8 @@
   font-family: "Open Sans", sans-serif;
   display: grid;
   place-items: center;
+  background-image: url('chat\ app\ bg.jpg');
+  background-size: cover;
 }
 body {
   margin: 0%;
